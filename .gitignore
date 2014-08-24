@@ -1,0 +1,8 @@
+#Ignorar archivos de respaldo de Eagle
+
+*.b#*
+*.S#*
+*.?#?
+*.bak
+*.orig
+SyncToy*
